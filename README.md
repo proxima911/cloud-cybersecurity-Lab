@@ -6,6 +6,8 @@ Provider: AWS.
 
 
 
+![Topology](https://github.com/collinsmc23/cloud-cybersecurity-homelab/blob/main/images/Cloud-hosted%20Cybersecurity%20Homelab.png)
+
 
 
 
